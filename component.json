@@ -1,0 +1,11 @@
+{
+  "name": "tick-list",
+  "description": "List styles with ticks",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/tick.png",
+    "images/tick.svg"
+  ]
+}
