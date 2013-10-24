@@ -1,0 +1,14 @@
+.TickList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.TickList li {
+  background-repeat: no-repeat;
+  background-position: 5px 4px;
+  padding-left: 25px;
+  margin-bottom: 5px;
+  background-image: url('images/tick.png');
+  background-image: url('images/tick.svg'), none;
+}
