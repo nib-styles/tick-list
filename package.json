@@ -1,0 +1,10 @@
+{
+  "name": "@nib-styles/tick-list",
+  "version": "0.1.0",
+  "description": "List styles with ticks",
+  "main.css": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-styles/tick-list.git"
+  }
+}
